@@ -39,7 +39,7 @@ namespace SastreE.Programación.Ahorcado
             doEspacio(ref i, tl, palabra2, ref palabra3, ref le, ref lp);
 
 
-            Console.ReadKey();
+            Console.ReadKey(); //FF
 
         }
 
